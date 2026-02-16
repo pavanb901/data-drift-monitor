@@ -61,6 +61,8 @@ Built with **FastAPI (backend)** and **React + Tailwind (frontend)**, this proje
 ---
 
 ## 📁 Project Structure
+
+```
 data_drift_platform/
 │
 ├── backend/
@@ -80,6 +82,7 @@ data_drift_platform/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
@@ -97,10 +100,10 @@ cd backend
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 # venv\Scripts\activate    # Windows
-```
 
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+```
 
 📍 Backend will run at:
 http://127.0.0.1:8000
