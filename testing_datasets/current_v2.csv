@@ -1,0 +1,11 @@
+age,income,credit_score,city
+30,60000,680,Bangalore
+33,65000,690,Bangalore
+36,70000,700,Mumbai
+40,75000,710,Mumbai
+45,82000,720,Delhi
+48,88000,730,Delhi
+52,95000,740,Delhi
+55,100000,750,Delhi
+58,110000,760,Delhi
+60,120000,770,Delhi
