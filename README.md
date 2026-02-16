@@ -121,16 +121,16 @@ npm run dev
 📍 Frontend will run at:
 http://localhost:5173
 
-📤 How to Use the Application
-	1.	Enter a dataset name
-	2.	Upload:
-	•	Baseline CSV
-	•	Current CSV
-	3.	Click Upload & Analyze
-	4.	View:
-	•	Health score
-	•	Drifted features
-	•	Feature prioritization
-	•	Distribution comparisons
-	•	Drift over time
-	•	AI recommendations
+### 📤 How to Use the Application
+-	Enter a dataset name
+-	Upload:
+   	-	Baseline CSV
+	-	Current CSV
+-	Click Upload & Analyze
+-	View:
+  	-	Health score
+	-	Drifted features
+	-	Feature prioritization
+	-	Distribution comparisons
+	-	Drift over time
+	-	AI recommendations
